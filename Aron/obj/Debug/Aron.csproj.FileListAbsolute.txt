@@ -1,0 +1,6 @@
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\Aron\bin\Debug\Aron.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\Aron\bin\Debug\Aron.pdb
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\Aron\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\Aron\obj\Debug\Aron.csprojResolveAssemblyReference.cache
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\Aron\obj\Debug\Aron.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\Aron\obj\Debug\Aron.pdb

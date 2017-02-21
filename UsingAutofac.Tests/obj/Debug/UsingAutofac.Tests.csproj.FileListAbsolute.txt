@@ -1,0 +1,10 @@
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac.Tests\bin\Debug\UsingAutofac.Tests.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac.Tests\bin\Debug\UsingAutofac.Tests.pdb
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac.Tests\bin\Debug\UsingAutofac.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac.Tests\bin\Debug\Autofac.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac.Tests\bin\Debug\UsingAutofac.pdb
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac.Tests\bin\Debug\Autofac.xml
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac.Tests\obj\Debug\UsingAutofac.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac.Tests\obj\Debug\UsingAutofac.Tests.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac.Tests\obj\Debug\UsingAutofac.Tests.pdb

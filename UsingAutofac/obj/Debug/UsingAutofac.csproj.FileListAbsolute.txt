@@ -1,0 +1,7 @@
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac\obj\Debug\UsingAutofac.csprojResolveAssemblyReference.cache
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac\bin\Debug\UsingAutofac.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac\bin\Debug\UsingAutofac.pdb
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac\bin\Debug\Autofac.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac\bin\Debug\Autofac.xml
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac\obj\Debug\UsingAutofac.dll
+C:\Users\Andras\documents\visual studio 2015\Projects\Learning2017\UsingAutofac\obj\Debug\UsingAutofac.pdb

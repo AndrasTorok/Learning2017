@@ -1,0 +1,5 @@
+c:\users\andras\documents\visual studio 2015\Projects\Learning2017\AdaptiveCSharp\bin\Debug\AdaptiveCSharp.dll
+c:\users\andras\documents\visual studio 2015\Projects\Learning2017\AdaptiveCSharp\bin\Debug\AdaptiveCSharp.pdb
+c:\users\andras\documents\visual studio 2015\Projects\Learning2017\AdaptiveCSharp\obj\Debug\AdaptiveCSharp.csprojResolveAssemblyReference.cache
+c:\users\andras\documents\visual studio 2015\Projects\Learning2017\AdaptiveCSharp\obj\Debug\AdaptiveCSharp.dll
+c:\users\andras\documents\visual studio 2015\Projects\Learning2017\AdaptiveCSharp\obj\Debug\AdaptiveCSharp.pdb
